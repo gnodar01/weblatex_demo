@@ -70,6 +70,8 @@ Reviews/comments made in VS Code show up in the GitHub UI automatically, and vic
 
 ---
 
+The devcontainer (and files, and latex, etc.) is all run on GitHub, whereas the local VS Code is just a thin client. If I want offline mode, I could easily install it locally with Docker. If I don't want GitHub hosting it, I can host it on my own server, etc.
+
 Don't want to use a locally installed VS Code? Then use VS Code in the browser, hosted on vscode.dev or on your own server:
 
 <img src="assets/14-open_in_browser.png" height="200"/>
