@@ -22,15 +22,19 @@ Authenticate using GitHub (along with using Github's rather granular access cont
 
 ---
 
-Initialize the devcontainer, which has the extensions preinstalled for you (along with your own local extensions):
+Initialize the devcontainer. This is done for you automatically, via the devcontainer spec:
 
 <img src="assets/05-init_devcontainer.png" height="200"/>
+
+---
+
+The devcontainer has the extensions preinstalled for you (along with your own local extensions).
 
 <img src="assets/06-prepackaged_extensions.png" height="200"/>
 
 ---
 
-Author your latex documents, get auto-compiling, synced rendering, etc.:
+Author your latex documents, get auto-compiling, synced rendering, side-by-side view, etc.:
 
 <img src="assets/07-rendered_view.png" height="200"/>
 
@@ -56,15 +60,17 @@ Google docs style, multicursor, CRDT, with live sharing. Hop on a zoom call and 
 
 ---
 
-Add comments in VS Code using Github PR Review extension:
+Add comments in VS Code using Github PR Review extension (rather than hopping over to the browser and doing it in the GitHub UI):
 
 <img src="assets/12-start_discussion.png" height="200"/>
+
+Reviews/comments made in VS Code show up in the GitHub UI automatically, and vice verse. They are synced.
 
 <img src="assets/13-comments_in_browser.png" height="200"/>
 
 ---
 
-Don't want to use a locally installed VS Code, use VS Code in the browser:
+Don't want to use a locally installed VS Code? Then use VS Code in the browser, hosted on vscode.dev or on your own server:
 
 <img src="assets/14-open_in_browser.png" height="200"/>
 
